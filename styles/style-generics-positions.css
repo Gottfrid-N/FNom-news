@@ -1,0 +1,12 @@
+.fixed-left {
+    position: absolute;
+    margin-left: 4px;
+}
+
+.fixed-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+    text-align: center;
+}

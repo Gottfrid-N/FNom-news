@@ -1,0 +1,37 @@
+header {
+    position: absolute;
+    width: 99.5%;
+    height: 6.8em;
+}
+
+#title {
+    font-size: 4em;
+    line-height: 1em;
+    font-family: Chomsky;
+}
+
+#header-top, 
+#header-bottom {
+    position: inherit;
+    width: 100%;
+}
+
+#header-top {
+    height: 5em;
+}
+
+#header-bottom {
+    top: 5.0em;
+    height: 1.5em;
+    border-top: double var(--octonary-background-color);
+    border-bottom: double var(--octonary-background-color);
+}
+
+#copyright {
+    top: 3.5rem;
+    font-size: 0.7em;
+}
+
+#address {
+    font-size: x-small;
+}

@@ -1,0 +1,18 @@
+.flush {
+    margin: 0;
+    padding: 0;
+}
+
+.invisible-a,
+.invisible-a:visited,
+.invisible-a:hover {
+    color: var(--color);
+    text-decoration: none;
+}
+
+.neutral-a,
+.neutral-a:visited,
+.neutral-a:hover {
+    color: var(--color);
+    text-decoration: underline;
+}
